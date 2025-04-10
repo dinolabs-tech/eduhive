@@ -1,0 +1,16 @@
+[2025-04-03 16:07:09] Command executed: "mysqldump" --host="localhost" --user="root" --password="" "portal" > "C:\xampp\htdocs\eduhive/backup_portal.sql" 2>&1
+[2025-04-03 16:07:09] Return code: 1
+[2025-04-03 16:07:09] Error: Backup failed with status code 1
+[2025-04-03 16:07:09] Output: 
+[2025-04-04 16:21:54] Command executed: "mysqldump" --host="localhost" --user="root" --password="" "portal" > "C:\xampp\htdocs\eduhive/backup_portal.sql" 2>&1
+[2025-04-04 16:21:54] Return code: 1
+[2025-04-04 16:21:54] Error: Backup failed with status code 1
+[2025-04-04 16:21:54] Output: 
+[2025-04-07 15:09:32] Command executed: "mysqldump" --host="localhost" --user="root" --password="" "portal" > "C:\xampp\htdocs\eduhive/backup_portal.sql" 2>&1
+[2025-04-07 15:09:32] Return code: 1
+[2025-04-07 15:09:32] Error: Backup failed with status code 1
+[2025-04-07 15:09:32] Output: 
+[2025-04-09 16:13:52] Command executed: "mysqldump" --host="localhost" --user="root" --password="" "portal" > "C:\xampp\htdocs\eduhive/backup_portal.sql" 2>&1
+[2025-04-09 16:13:52] Return code: 1
+[2025-04-09 16:13:52] Error: Backup failed with status code 1
+[2025-04-09 16:13:52] Output: 
